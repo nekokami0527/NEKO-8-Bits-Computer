@@ -23,7 +23,7 @@ CPU HLT指示
 
 ## 内存定义
 
-![image-20210302164822355](C:\Users\nekokami\AppData\Roaming\Typora\typora-user-images\image-20210302164822355.png)
+![image-20210302164822355](.\image\memory.png)
 
 ## 指令集
 
